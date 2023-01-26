@@ -19,6 +19,9 @@ Password : 123
 <br>
 <span style="color:red">* Penggunaan Login untuk <b>single User</b> </span>
 
-
 ## Link Akses
 localhost/kasir/
+
+## Contoh Program
+- Login
+<img src="https://raw.githubusercontent.com/Alfiibai/alfiuasweb2/main/assets/img/picv3/login.png">
