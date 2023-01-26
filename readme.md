@@ -20,4 +20,5 @@ Password : 123
 <span style="color:red">* Penggunaan Login untuk <b>single User</b> </span>
 
 
-link akses : localhost/kasir
+## Link Akses
+localhost/kasir/
