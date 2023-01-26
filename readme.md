@@ -28,15 +28,21 @@ localhost/kasir/
 
 - Dashboard
 <img src="https://raw.githubusercontent.com/Alfiibai/alfiuasweb2/main/assets/img/picv3/1.png">
+
 - Tabel Barang
 <img src="https://raw.githubusercontent.com/Alfiibai/alfiuasweb2/main/assets/img/picv3/2.png">
+
 - Kategori
 <img src="https://raw.githubusercontent.com/Alfiibai/alfiuasweb2/main/assets/img/picv3/3.png">
+
 - Keranjang/Transaksi
 <img src="https://raw.githubusercontent.com/Alfiibai/alfiuasweb2/main/assets/img/picv3/4.png">
+
 - Laporan Penjualan
 <img src="https://raw.githubusercontent.com/Alfiibai/alfiuasweb2/main/assets/img/picv3/5.png">
+
 - Biodata
 <img src="https://raw.githubusercontent.com/Alfiibai/alfiuasweb2/main/assets/img/picv3/7.png">
+
 - Profil
-<img src="">
+<img src="https://raw.githubusercontent.com/Alfiibai/alfiuasweb2/main/assets/img/picv3/1.png">
