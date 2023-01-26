@@ -11,7 +11,7 @@
         <div class="sidebar-brand-icon rotate-n-15">
             <i class="fas fa-cash-register"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">POS Codekop<sup></sup></div>
+        <div class="sidebar-brand-text mx-3">MM99<sup></sup></div>
     </a>
 
     <!-- Divider -->
@@ -67,6 +67,14 @@
             <i class="fas fa-fw fa-cogs"></i>
             <span>Pengaturan Toko</span></a>
     </li>
+
+    <hr class="sidebar-divider">
+    <li class="nav-item active">
+        <a class="nav-link" href="index.php?page=biodata">
+            <i class="fas fa-fw fa-cogs"></i>
+            <span>Biodata</span></a>
+    </li>
+
     <!-- Divider -->
     <hr class="sidebar-divider d-none d-md-block">
 
@@ -74,6 +82,7 @@
     <div class="text-center d-none d-md-inline">
         <button class="rounded-circle border-0" id="sidebarToggle"></button>
     </div>
+
 
 </ul>
 <!-- End of Sidebar -->
