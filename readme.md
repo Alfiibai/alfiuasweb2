@@ -21,7 +21,7 @@ Password : 123
 
 ## Contoh Program V2
 - Login
-<img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/1.png">
+<img src="assets/img/picv3/login.jpg">
 
 - Dashboard 
 <img src="https://raw.githubusercontent.com/fauzan1892/pos-kasir-php/master/assets/img/picv2/2.png">
