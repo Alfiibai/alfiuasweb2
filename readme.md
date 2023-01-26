@@ -45,4 +45,4 @@ localhost/kasir/
 <img src="https://raw.githubusercontent.com/Alfiibai/alfiuasweb2/main/assets/img/picv3/7.png">
 
 - Profil
-<img src="https://raw.githubusercontent.com/Alfiibai/alfiuasweb2/main/assets/img/picv3/1.png">
+<img src="https://raw.githubusercontent.com/Alfiibai/alfiuasweb2/main/profil.png">
